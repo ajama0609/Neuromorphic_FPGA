@@ -1,3 +1,75 @@
 Time resolution is 1 ps
-Note: Simulation finished
-Time: 570 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 0 Input=2 Accum=0 Spike='0'
+Time: 20 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 1 Input=4 Accum=10 Spike='0'
+Time: 30 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 2 Input=8 Accum=30 Spike='0'
+Time: 40 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 3 Input=16 Accum=70 Spike='0'
+Time: 50 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 4 Input=32 Accum=150 Spike='0'
+Time: 60 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 5 Input=65 Accum=310 Spike='1'
+Time: 70 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 6 Input=130 Accum=0 Spike='0'
+Time: 80 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 7 Input=5 Accum=650 Spike='1'
+Time: 90 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 8 Input=10 Accum=0 Spike='0'
+Time: 100 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 9 Input=20 Accum=50 Spike='0'
+Time: 110 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 10 Input=40 Accum=150 Spike='0'
+Time: 120 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 11 Input=81 Accum=350 Spike='1'
+Time: 130 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 12 Input=162 Accum=0 Spike='0'
+Time: 140 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 13 Input=68 Accum=810 Spike='1'
+Time: 150 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 14 Input=136 Accum=0 Spike='0'
+Time: 160 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 15 Input=17 Accum=680 Spike='1'
+Time: 170 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 16 Input=34 Accum=0 Spike='0'
+Time: 180 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 17 Input=69 Accum=170 Spike='0'
+Time: 190 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 18 Input=138 Accum=515 Spike='1'
+Time: 200 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 19 Input=21 Accum=0 Spike='0'
+Time: 210 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 20 Input=42 Accum=105 Spike='0'
+Time: 220 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 21 Input=85 Accum=315 Spike='1'
+Time: 230 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 22 Input=170 Accum=0 Spike='0'
+Time: 240 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 23 Input=84 Accum=850 Spike='1'
+Time: 250 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 24 Input=168 Accum=0 Spike='0'
+Time: 260 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Weight updated to 8 at cycle 25
+Time: 270 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 25 Input=80 Accum=840 Spike='1'
+Time: 270 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 26 Input=160 Accum=0 Spike='0'
+Time: 280 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 27 Input=64 Accum=1280 Spike='1'
+Time: 290 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 28 Input=128 Accum=0 Spike='0'
+Time: 300 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 29 Input=1 Accum=1024 Spike='1'
+Time: 310 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 30 Input=2 Accum=0 Spike='0'
+Time: 320 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 31 Input=4 Accum=16 Spike='0'
+Time: 330 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 32 Input=8 Accum=48 Spike='0'
+Time: 340 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 33 Input=16 Accum=112 Spike='0'
+Time: 350 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 34 Input=32 Accum=240 Spike='1'
+Time: 360 ns  Iteration: 0  Process: /tb_byte_multiplier_accumulator/stim_proc  File: C:/Users/dhiid/Neuromorphic_FPGA/Neurmorphic_Chip/Neurmorphic_Chip.srcs/sim_1/new/testbench.vhd
+Note: Cycle 35 Input=65 Accum=0 Spike='0'
+Time: 370 ns  Iteration: 0  Process: /tb_b
