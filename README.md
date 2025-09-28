@@ -1,9 +1,16 @@
-# Neuromorphic_FPGA
-Neuromorphic Intergrate and Fire  node FPGA RTL design  
+# Neuromorphic FPGA  
+Neuromorphic Integrate-and-Fire Node — FPGA RTL Design  
 
-This was inspired by spiking neural networks.Reliazing that they can implemented digitally with MAC(mutiply and accumulate blocks.  
-<img width="1557" height="705" alt="image" src="https://github.com/user-attachments/assets/ce8ca15f-cbb3-4ed3-93f2-15fa08b18157" /> 
+This project is inspired by **Spiking Neural Networks (SNNs)**, with the goal of demonstrating how they can be implemented in digital hardware using standard FPGA resources. At the core of the design is a **Multiply-and-Accumulate (MAC) block**, followed by a comparison stage against a programmable threshold (which acts as the bias).  
 
-As shown above and in the source code the implementaion uses a mutiply and accumulate logic block which is then compared to a threshold , that would be equivalent to a bias.The weights would be programmble by a another chip such as a mircocontoller as well as the biases or thresholds for each weight.These weights could be learned online or offline and flashed onto the chip.This includes one IF node but it would be interesting to increase the number of neurons and build out the adaptive weighting code on a seperate processor. 
+<img width="1558" height="709" alt="image" src="https://github.com/user-attachments/assets/f7a50bfd-7afd-4177-bb64-c743641a0dbb" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6ee5d67c-ef91-4b96-a3cb-1e4e9e044145" />
 
+### Key Features
+- **MAC-based neuron design**: each node multiplies input data by a weight and accumulates the result over time.  
+- **Threshold comparison**: when the accumulated value exceeds the threshold (bias), the neuron generates a spike and resets.  
+- **Programmable parameters**: weights and thresholds can be configured externally by a microcontroller or host processor. These parameters may be learned offline and flashed onto the device, or adapted online for real-time learning.  
+- **Extensible architecture**: this implementation demonstrates a single integrate-and-fire node, but can be scaled to multiple neurons. With a separate microcontroller or soft-core processor, adaptive learning algorithms could be integrated to update weights dynamically.  
+
+This project illustrates how digital logic on an FPGA can replicate the behavior of biological spiking neurons, forming a foundation for larger neuromorphic accelerators.
